@@ -1,0 +1,6 @@
+@tareasApi_HostAddress = http://localhost:5197
+
+GET {{tareasApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
